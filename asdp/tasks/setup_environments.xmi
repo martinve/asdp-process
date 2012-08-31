@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TK8JcG2v08H7yJWVRMTvjg" name="build_environment,_p39IcKl1EeGLZKMQDDeDig" guid="-TK8JcG2v08H7yJWVRMTvjg">
+  <sections xmi:id="_4Bff4OtpEeGGE8fP1QzmjA" name="Implement version control" guid="_4Bff4OtpEeGGE8fP1QzmjA"/>
+  <sections xmi:id="_ExaIEOtqEeGGE8fP1QzmjA" name="Implement metrics dashboard" guid="_ExaIEOtqEeGGE8fP1QzmjA"/>
+  <sections xmi:id="_GXCCEOtqEeGGE8fP1QzmjA" name="Implement validated learning dashboard" guid="_GXCCEOtqEeGGE8fP1QzmjA"/>
+  <sections xmi:id="_K5fgoOtqEeGGE8fP1QzmjA" name="Implement continuous deployment" guid="_K5fgoOtqEeGGE8fP1QzmjA"/>
+  <sections xmi:id="_bm5SEOtqEeGGE8fP1QzmjA" name="Implement issue tracking environment" guid="_bm5SEOtqEeGGE8fP1QzmjA"/>
+  <purpose>Set up the environment and tools to support company operations</purpose>
+</org.eclipse.epf.uma:TaskDescription>

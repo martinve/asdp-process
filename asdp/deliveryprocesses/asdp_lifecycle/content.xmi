@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-zvKcuq6_ls3nPMrCGPi4iQ" name="Process Lifecycle,_VUNRAZ-EEeGmvrirqdSDrw" guid="-zvKcuq6_ls3nPMrCGPi4iQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-jGZ-NLE3JqOo96pEIlTlEQ" name="define_vision,_230JoOp6EeG8efGFVKXIAQ" guid="-jGZ-NLE3JqOo96pEIlTlEQ">
+    <refinedDescription>&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Describe problem and corresponding customer segments&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe Unique Value Proposition. The UVP should state why you are different and worth buying&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe top features of solution&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe paths to customers&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe cost structure and revenue streams&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe key metrics and activities you measure&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe unfair advantage,&amp;nbsp;why the solution cannot be easily copied or bought&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    (Source: Maruya 2012, p. 45)&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-UatXNJFq-3A4cbTBKMkFrw" name="define_vision,_F3iZkOsxEeGGE8fP1QzmjA" guid="-UatXNJFq-3A4cbTBKMkFrw">
+    <refinedDescription>&lt;p>&#xD;
+    Capture the problem and a possible solution in as a business model in minimalistic and flexible manner using Business&#xD;
+    Model Canvas.&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Describe problem and corresponding customer segments&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe Unique Value Proposition. The UVP should state why you are different and worth buying&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe top features of solution&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe paths to customers&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe cost structure and revenue streams&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe key metrics and activities you measure&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Describe unfair advantage,&amp;nbsp;why the solution cannot be easily copied or bought&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    (Source: Maruya 2012, p. 45)&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-9Nempj5n10rQPf7BM-YJBg" name="conduct_problem_interview,_DT8N4OtREeGGE8fP1QzmjA" guid="-9Nempj5n10rQPf7BM-YJBg">
+    <refinedDescription>&lt;p>&#xD;
+    Interview must answer to the following questions:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        What are the top 3 problems for given customer segment?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        What is the problem pain level - must have, nice to have, don't need?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        How are those problems solved today?&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    Source: Maruya 2012, p108&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-jDyqNV0K3Vgu3weg4NhkgA" name="conduct_solution_interview,_8DqowOtREeGGE8fP1QzmjA" guid="-jDyqNV0K3Vgu3weg4NhkgA">
+    <refinedDescription>&lt;p>&#xD;
+    Interview must answer to the following questions:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        What is the top problem?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        How is it solved today?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        What is the minimal set of features to solve it?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Are customers ready to pay for solution, if yes, then how much?&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    Source: Maruya 2012, p128&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-MWOt61nKQRuAn1n-vxaWuA" name="Validated learning loop,_V1MiMesHEeGGE8fP1QzmjA" guid="-MWOt61nKQRuAn1n-vxaWuA">
+    <purpose>&lt;p>&#xD;
+    Reduce external uncertanity by measuring the reactions of customer to changes in system.&#xD;
+&lt;/p></purpose>
+  </org.eclipse.epf.uma:ProcessDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-uxu_k9Q8DkGlhSpsbaQkPQ" name="Validated learning loop,_V1MiMesHEeGGE8fP1QzmjA" guid="-uxu_k9Q8DkGlhSpsbaQkPQ">
+    <purpose>&lt;p>&#xD;
+    Reduce external uncertanity by measuring the reactions of customer to changes in system.&#xD;
+&lt;/p></purpose>
+  </org.eclipse.epf.uma:ProcessDescription>
+</xmi:XMI>

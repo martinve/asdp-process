@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_T9yJYKBwEeGDqZC3n_z0zQ" guid="_T9yJYKBwEeGDqZC3n_z0zQ">
+    <resourceDescriptors xmi:id="_T9yJYaBwEeGDqZC3n_z0zQ" id="-MWFGva97ystmguljqGAXGg" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_TCsaIKBwEeGDqZC3n_z0zQ" name="apply_archetype_patterns" guid="_TCsaIKBwEeGDqZC3n_z0zQ">
+    <methodElementProperty xmi:id="_z6qQYOtIEeGGE8fP1QzmjA" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_YMp9kKBwEeGDqZC3n_z0zQ" name="Requirements" guid="_YMp9kKBwEeGDqZC3n_z0zQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_YMp9kaBwEeGDqZC3n_z0zQ" name="Requirements" guid="_YMp9kaBwEeGDqZC3n_z0zQ" presentationName="Requirements" superActivities="_TCsaIaBwEeGDqZC3n_z0zQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Z4LrQKBwEeGDqZC3n_z0zQ" name="Development" guid="_Z4LrQKBwEeGDqZC3n_z0zQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_Z4LrQaBwEeGDqZC3n_z0zQ" name="Development" guid="_Z4LrQaBwEeGDqZC3n_z0zQ" presentationName="Development" superActivities="_TCsaIaBwEeGDqZC3n_z0zQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_cJJoUKBwEeGDqZC3n_z0zQ" name="Quality Assurance" guid="_cJJoUKBwEeGDqZC3n_z0zQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_cJJoUaBwEeGDqZC3n_z0zQ" name="Quality Assurance" guid="_cJJoUaBwEeGDqZC3n_z0zQ" presentationName="Quality Assurance" superActivities="_TCsaIaBwEeGDqZC3n_z0zQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_d5xRYKBwEeGDqZC3n_z0zQ" name="Release" guid="_d5xRYKBwEeGDqZC3n_z0zQ">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_d5x4cKBwEeGDqZC3n_z0zQ" name="Release" guid="_d5x4cKBwEeGDqZC3n_z0zQ" presentationName="Release" isPlanned="false" superActivities="_TCsaIaBwEeGDqZC3n_z0zQ"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_TCsaIaBwEeGDqZC3n_z0zQ" name="apply_archetype_patterns" guid="_TCsaIaBwEeGDqZC3n_z0zQ" presentationName="Apply Archetype Patterns" briefDescription="Apply archetype patterns to application architecture " breakdownElements="_YMp9kaBwEeGDqZC3n_z0zQ _Z4LrQaBwEeGDqZC3n_z0zQ _cJJoUaBwEeGDqZC3n_z0zQ _d5x4cKBwEeGDqZC3n_z0zQ">
+      <presentation xmi:id="-MWFGva97ystmguljqGAXGg" href="uma://-MWFGva97ystmguljqGAXGg#-MWFGva97ystmguljqGAXGg"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

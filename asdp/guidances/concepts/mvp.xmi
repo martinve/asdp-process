@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-F0h4Ntjxt3DmnWjzwWdSiA" name="mvp,_u5zWgKHGEeGm4N1Ej2bWRQ" guid="-F0h4Ntjxt3DmnWjzwWdSiA" changeDate="2012-08-20T19:11:13.938+0300">
+  <mainDescription>&lt;p>&#xD;
+    A Minimum Viable Product has just those features that allow the product to be deployed, and no more. The product is&#xD;
+    typically deployed to a subset of possible customers, such as early adopters that are thought to be more forgiving,&#xD;
+    more likely to give feedback, and able to grasp a product vision from an early prototype or marketing information. It&#xD;
+    is a strategy targeted at avoiding building products that customers do not want, that seeks to maximize the information&#xD;
+    learned about the customer per dollar spent. &quot;The minimum viable product is that version of a new product which allows&#xD;
+    a team to collect the maximum amount of validated learning about customers with the least effort.&quot; The definition's use&#xD;
+    of the words maximum and minimum means it is decidedly not formulaic. It requires judgment to figure out, for any given&#xD;
+    context, what MVP makes sense.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    An MVP is not a minimal product, it is a strategy and process directed toward making and selling a product to&#xD;
+    customers. It is an iterative process of idea generation, prototyping, presentation, data collection, analysis and&#xD;
+    learning. One seeks to minimize the total time spent on an iteration. The process is iterated until a desirable&#xD;
+    product-market fit is obtained, or until the product is deemed to be non-viable.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Source: &lt;a href=&quot;http://en.wikipedia.org/wiki/Minimum_viable_product&quot;>&lt;u>&lt;font&#xD;
+    color=&quot;#0066cc&quot;>http://en.wikipedia.org/wiki/Minimum_viable_product&lt;/font>&lt;/u>&lt;/a>&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

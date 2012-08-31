@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WfOPy5DHHnroL07WJO65Rg" name="new_checklist,_kf-KMLCTEeGx-ptehtJdvA" guid="-WfOPy5DHHnroL07WJO65Rg">
+  <sections xmi:id="_nei0ILCTEeGx-ptehtJdvA" name="Retention rate 30% or more" guid="_nei0ILCTEeGx-ptehtJdvA"/>
+  <sections xmi:id="_pVjZELCTEeGx-ptehtJdvA" name="30% of users indicate they are 'unhappy' when they cannot use the product" guid="_pVjZELCTEeGx-ptehtJdvA"/>
+  <sections xmi:id="_rJElILCTEeGx-ptehtJdvA" name="Positive revenue from customers" guid="_rJElILCTEeGx-ptehtJdvA"/>
+</org.eclipse.epf.uma:ContentDescription>

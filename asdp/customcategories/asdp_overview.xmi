@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KK8EvjiANeSSpfCPQhX5Kw" name="asdp_overview,_s2LrMKHBEeGm4N1Ej2bWRQ" guid="-KK8EvjiANeSSpfCPQhX5Kw" changeDate="2012-08-20T20:44:05.466+0300">
+  <mainDescription>&lt;p>&#xD;
+    Agile Startup Development Process is a lightweight and agile software development process specifically tailored to suit&#xD;
+    the startup lifecycle. The process is based on Lean Startup methodology introduced by Eric Ries.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It outlines the mandatory tasks, roles and artifacts required for successfully establishing a startup company and the&#xD;
+    supporting development process.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The process covers three steps of startup lifecycle:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Problem Validation - to ensure that the problem is viable and worth solving&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Market Validation - to ensure that there exist customers willing to use and pay for the product or service created&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Product Validation - to ensure that the product and service created provides maximal usefulness for the customer.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+The process does not cover the scaling phase of the lifecycle.&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

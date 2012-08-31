@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rtWvhLCYmDe3CXnUm6y6tA" name="new_concept,_typ0IOr3EeGGE8fP1QzmjA" guid="-rtWvhLCYmDe3CXnUm6y6tA" changeDate="2012-08-20T21:51:06.815+0300">
+  <mainDescription>&lt;p>&#xD;
+    The Business Model Canvas is a management template for developing new or documenting existing business models.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    It is a visual chart with elements describing a firm's value proposition, infrastructure, customers, and finances. It&#xD;
+    assists a company in aligning their activities by illustrating potential trade-offs.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    The Business Model Canvas was initially proposed by Alexander Osterwalder based on his earlier work on Business Model&#xD;
+    Ontology.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Source: &lt;a href=&quot;http://en.wikipedia.org/wiki/Business_Model_Canvas&quot;>&lt;u>&lt;font&#xD;
+    color=&quot;#0066cc&quot;>http://en.wikipedia.org/wiki/Business_Model_Canvas&lt;/font>&lt;/u>&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

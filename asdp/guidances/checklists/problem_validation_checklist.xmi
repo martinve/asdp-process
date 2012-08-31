@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qPlXUje5DIC2XvtxI3yQXA" name="problem_validation_success_checklist,_ymdREKiuEeGzb6g_oYIzcw" guid="-qPlXUje5DIC2XvtxI3yQXA">
+  <sections xmi:id="_BN1UsKiwEeGzb6g_oYIzcw" name="Demographics of early adopter identified" guid="_BN1UsKiwEeGzb6g_oYIzcw"/>
+  <sections xmi:id="_z5mpEKiwEeGzb6g_oYIzcw" name="Relevant must-have problem formulated" guid="_z5mpEKiwEeGzb6g_oYIzcw"/>
+  <sections xmi:id="_2DyBoKiwEeGzb6g_oYIzcw" name="Minimum feature set to solve the problem listed" guid="_2DyBoKiwEeGzb6g_oYIzcw"/>
+  <sections xmi:id="_3NeNkKiwEeGzb6g_oYIzcw" name="Initial pricing model validated with potential customers" guid="_3NeNkKiwEeGzb6g_oYIzcw"/>
+  <sections xmi:id="_6CvxkKiwEeGzb6g_oYIzcw" name="Initial business model described" guid="_6CvxkKiwEeGzb6g_oYIzcw"/>
+</org.eclipse.epf.uma:ContentDescription>

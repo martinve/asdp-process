@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_0WIqLYA0sDXuciGO0BoRA" name="new_concept,_JVwH4OtoEeGGE8fP1QzmjA" guid="-_0WIqLYA0sDXuciGO0BoRA" changeDate="2012-08-21T11:15:02.538+0300">
+  <mainDescription>&lt;p>&#xD;
+    Metrics are either qualitative -&amp;nbsp;gathered in the form of interview when quantitative data is not available, or&#xD;
+    quantitative that are measured in background without direct customer intervention.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    We are primarily concerned in five types of measurements of user behavior (AARRR):&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;strong>A:&lt;/strong> Acquisition – Where do users come from&lt;br />&#xD;
+    &lt;strong>A:&lt;/strong> Activation – What percent of users has positive initial experience&lt;br />&#xD;
+    &lt;strong>R:&lt;/strong> Retention – What percent of users return and revisit over time&lt;br />&#xD;
+    &lt;strong>R:&lt;/strong> Referral – Is the user experience positive enough that they refer it to their friends&lt;br />&#xD;
+    &lt;strong>R:&lt;/strong> Revenue – Can user behavior be monetized?&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    Source: &lt;a href=&quot;http://500hats.typepad.com/500blogs/2007/06/internet-market.html&quot;>&lt;u>&lt;font&#xD;
+    color=&quot;#0066cc&quot;>http://500hats.typepad.com/500blogs/2007/06/internet-market.html&lt;/font>&lt;/u>&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

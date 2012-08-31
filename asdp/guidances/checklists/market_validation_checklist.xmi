@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-r2EjhwMRn9io_xY3E2t2jw" name="new_checklist,_-PSS8LCREeGx-ptehtJdvA" guid="-r2EjhwMRn9io_xY3E2t2jw">
+  <sections xmi:id="_JvBFoLCSEeGx-ptehtJdvA" name="Unique value proposition obvious to potential customer" guid="_JvBFoLCSEeGx-ptehtJdvA"/>
+  <sections xmi:id="_MCQTkLCSEeGx-ptehtJdvA" name="Product or service with minimal set of features ready to be used by customer" guid="_MCQTkLCSEeGx-ptehtJdvA"/>
+  <sections xmi:id="_RagKoLCSEeGx-ptehtJdvA" name="Pricing policy accepted by customer" guid="_RagKoLCSEeGx-ptehtJdvA"/>
+  <sections xmi:id="_RmimELCTEeGx-ptehtJdvA" name="Service is open for registration" guid="_RmimELCTEeGx-ptehtJdvA"/>
+  <sections xmi:id="_U4p3ELCTEeGx-ptehtJdvA" name="Customer flow after registration clear" guid="_U4p3ELCTEeGx-ptehtJdvA"/>
+</org.eclipse.epf.uma:ContentDescription>

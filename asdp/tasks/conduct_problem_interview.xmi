@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2_2tbIBPjt5ZsGeFpZBC-Q" name="perform_problem_interview,__ZRccOq-EeG8efGFVKXIAQ" guid="-2_2tbIBPjt5ZsGeFpZBC-Q" changeDate="2012-08-21T09:09:17.227+0300">
+  <mainDescription>&lt;p>&#xD;
+    Interview must answer to the following questions:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        What are the top 3 problems for given customer segment?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        What is the problem pain level - must have, nice to have, don't need?&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        How are those problems solved today?&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;p>&#xD;
+    Source: Maruya 2012, p108&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Gather feedback regarding viability of problem.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>
